@@ -1,0 +1,131 @@
+
+    [
+        {
+            "slno":"SL NO.",
+            "name":"NAME",
+            "quntity":"QUANTITY",
+            "unit":"UNIT",
+            "dep":"DEPARTMENT",
+            "note":"NOTES"
+        },
+        {
+            "slno":"1",
+            "name":"rice",
+            "quntity":"10",
+            "unit":"kg",
+            "dep":"grains",
+            "note":"India gate"
+        },
+        {
+            "slno":"2",
+            "name":"salt",
+            "quntity":"1",
+            "unit":"kg",
+            "dep":"salt",
+            "note":"tata salt"
+        },
+        {
+            "slno":"3",
+            "name":"atta",
+            "quntity":"2",
+            "unit":"kg",
+            "dep":"food powder",
+            "note":"ashirvad"
+        },
+        {
+            "slno":"4",
+            "name":"Milk",
+            "quntity":"5",
+            "unit":"packet",
+            "dep":"milk",
+            "note":"a-one"
+        },
+        {
+            "slno":"5",
+            "name":"hand wash",
+            "quntity":"2",
+            "unit":"bottle",
+            "dep":"soap & sanitizer",
+            "note":"oxy viral"
+        },
+        {
+            "slno":"6",
+            "name":"soap",
+            "quntity":"5",
+            "unit":"Nos",
+            "dep":"soap & sanitizer",
+            "note":"lifeboy"
+        },
+        {
+            "slno":"7",
+            "name":"Onion",
+            "quntity":"1",
+            "unit":"kg",
+            "dep":"Vegetable",
+            "note":"-"
+        },
+        {
+            "slno":"8",
+            "name":"agarbathy",
+            "quntity":"2",
+            "unit":"packet",
+            "dep":"pooja items",
+            "note":"lia"
+        },
+        {
+            "slno":"9",
+            "name":"turmeric powder",
+            "quntity":"2",
+            "unit":"packet",
+            "dep":"curry powder",
+            "note":"kitchen tresure"
+        },
+        {
+            "slno":"10",
+            "name":"vinagir",
+            "quntity":"1",
+            "unit":"bottle",
+            "dep":"kitchen item",
+            "note":"double horse"
+        },
+        {
+            "slno":"11",
+            "name":"onion",
+            "quntity":"2",
+            "unit":"kg",
+            "dep":"vegetables",
+            "note":"-"
+        },
+        {
+            "slno":"12",
+            "name":"potato",
+            "quntity":"1",
+            "unit":"kg",
+            "dep":"vegetables",
+            "note":"-"
+        },
+        {
+            "slno":"13",
+            "name":"lemon",
+            "quntity":"2",
+            "unit":"kg",
+            "dep":"vegetables",
+            "note":"-"
+        },
+        {
+            "slno":"14",
+            "name":"cocunut",
+            "quntity":"10",
+            "unit":"Nos",
+            "dep":"vegetables",
+            "note":"-"
+        },
+        {
+            "slno":"15",
+            "name":"egg",
+            "quntity":"10",
+            "unit":"Nos",
+            "dep":"egg",
+            "note":"-"
+        }
+    ]
